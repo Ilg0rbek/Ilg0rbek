@@ -21,4 +21,3 @@
 <p><a href="https://www.buymeacoffee.com/I like Coffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="I like Coffe" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilg0rbek&show_icons=true&locale=en&layout=compact" alt="ilg0rbek" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilg0rbek&show_icons=true&locale=en" alt="ilg0rbek" /></p>
