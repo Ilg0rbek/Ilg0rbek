@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilg`orbek</h1>
 <h3 align="center">I`m frontend developer from ❤️ Uzbekistan 🇺🇿</h3>
-
-
-
+<br/>
 
 
 - 🌱 I’m currently learning **Node.js**
