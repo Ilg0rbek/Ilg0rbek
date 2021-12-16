@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilg`orbek</h1>
 <h3 align="center">I`m frontend developer from ❤️ Uzbekistan 🇺🇿</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilg0rbek&label=Profile%20views&color=0e75b6&style=flat" alt="ilg0rbek" /> </p>
-
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **React.js and JavaScript**
@@ -23,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilg0rbek&show_icons=true&locale=en" alt="ilg0rbek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilg0rbek&" alt="ilg0rbek" /></p>
